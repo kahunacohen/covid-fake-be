@@ -1,4 +1,6 @@
 {
+  "resp_null": null,
+  "resp_1": 1,
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
