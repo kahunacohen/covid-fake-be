@@ -1,6 +1,4 @@
 {
-  "foo_null": 0,
-  "foo_1": 1,
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
