@@ -1,6 +1,6 @@
 {
   "alerts": [
-    { "id": 1, "title": "Alert 1", "body": "This is a test of alert 1"| },
+    { "id": 1, "title": "Alert 1", "body": "This is a test of alert 1" },
     { "id": 2, "title": "Alert 2", "body": "This is a test of alert 2" },
   ]
 }
