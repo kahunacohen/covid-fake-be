@@ -1,13 +1,11 @@
 {
-	"alerts": [{
-			"id": 1,
-			"title": "Alert 1",
-			"body": "This is Alert 1"
-		},
-		{
-			"id": 2,
-			"title": "Alert 2",
-			"body": "This is Alert 2"
-		}
-	]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
