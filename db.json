@@ -2,7 +2,13 @@
   "alerts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Alert 1",
+      "body": "This is alert 1"
+    },
+    {
+      "id": 2,
+      "title": "Alert 2",
+      "body": "This is alert 2"
     }
   ]
 }
