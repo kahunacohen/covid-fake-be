@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Alert 1",
       "body": "This is alert 1",
-      "read": false,
+      "read": false
     },
     {
       "id": 2,
