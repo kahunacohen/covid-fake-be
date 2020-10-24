@@ -3,12 +3,14 @@
     {
       "id": 1,
       "title": "Alert 1",
-      "body": "This is alert 1"
+      "body": "This is alert 1",
+      "read": false,
     },
     {
       "id": 2,
       "title": "Alert 2",
-      "body": "This is alert 2"
+      "body": "This is alert 2",
+      "read": false
     }
   ]
 }
