@@ -10,7 +10,7 @@
       "id": 2,
       "title": "Alert 2",
       "body": "This is alert 2",
-      "read": false
+      "read": true
     }
   ]
 }
